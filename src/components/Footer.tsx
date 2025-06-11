@@ -77,7 +77,7 @@ const Footer = () => {
         <div className={`${isMobile ? 'flex flex-col' : 'grid grid-cols-1 md:grid-cols-4 gap-8'}`}>
           
           {/* About Section */}
-          <FooterSection title="Let's Stream V2.0" id="about">
+          <FooterSection title="Z-flix" id="about">
             <p className="text-white/70 text-sm mb-4">
               Discover and enjoy the best movies and TV shows all in one place. Let's Stream V2.0 helps you find, explore, and watch your favorite content online.
             </p>
@@ -202,7 +202,7 @@ const Footer = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                TMDB
+                ZANEFLIX
               </a>
             </p>
           </FooterSection>
